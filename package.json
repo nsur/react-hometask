@@ -1,7 +1,7 @@
 {
     "name": "react-hometask",
     "version": "0.0.2",
-    "author": "Dima Vakatsiienko <d.vakatsiienko@lectrum.io>",
+    "author": "Natali Surgova <surgovan@gmail.com>",
     "private": true,
     "scripts": {
         "start": "nodemon",
