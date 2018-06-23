@@ -1,0 +1,128 @@
+{
+	"dataTop": [
+		{
+			"header": {
+				"sectionNumber": "01.",
+				"sectionName": "Набор скилов"
+			},
+			"params": {
+				"type": "skills",
+				"className": "skillset"
+			},
+			"items": [
+				{
+					"name": "Химия",
+					"active": 7
+				},
+				{
+					"name": "Физика",
+					"active": 9
+				},
+				{
+					"name": "Ядерная инженерия",
+					"active": 2
+				},
+				{
+					"name": "Метафизика",
+					"active": 9
+				},
+				{
+					"name": "Астронавтика",
+					"active": 8
+				}
+			]
+		},
+		{
+			"header": {
+				"sectionNumber": "02.",
+				"sectionName": "Опыт работы"
+			},
+			"params": {
+				"type": "positions"
+			},
+			"items": [
+				{
+					"period": "06.2006 — настоящее время",
+					"position": "Председатель совета директоров",
+					"location": "Сан-Матео, США",
+					"company": "SolarCity"
+				},
+				{
+					"period": "02.2004 — настоящее время",
+					"position": "Директор и продуктовый архитектор",
+					"location": "Пало-Алто, США",
+					"company": "Tesla Motors"
+				},
+				{
+					"period": "06.2002 — настоящее время",
+					"position": "Директор и ведущий дизайнер",
+					"location": "Хоторн, США",
+					"company": ""
+				},
+				{
+					"period": "03.1999 — 10.2002",
+					"position": "Директор",
+					"location": "Сан-Хосе, США",
+					"company": "SpaceX"
+				},
+				{
+					"period": "01.1995 — 02.1999",
+					"position": "Сооснователь",
+					"location": "Калифорния, США",
+					"company": "Zip2"
+				}
+			]
+		}
+	],
+	"dataBottom": [
+		{
+			"header": {
+				"sectionNumber": "03.",
+				"sectionName": "Контакты"
+			},
+			"params": {
+				"type": "contacts",
+				"className": "contacts"
+			},
+			"items": [
+				{
+					"action": "Написать",
+					"address": "elonmusk@teslamotors.com"
+				},
+				{
+					"action": "Набрать",
+					"address": "650-681-5000"
+				},
+				{
+					"action": "Встретиться",
+					"address": "Лос-Анджелес, США"
+				}
+			]
+		},
+		{
+			"header": {
+				"sectionNumber": "04.",
+				"sectionName": "Образование"
+			},
+			"params": {
+				"type": "education",
+				"className": "education"
+			},
+			"items": [
+				{
+					"period": "09.1992 — 06.1995",
+					"eduspace": "Уортонская школа бизнеса при Пенсильванском университете",
+					"degree": "Бакалавр наук по экономике"
+				},
+				{
+					"period": "09.1992 — 06.1995",
+					"eduspace": "Колледж искусств и науки при Пенсильванском университете",
+					"degree": "Бакалавр естественных наук"
+				},
+				{
+					"copyright": "2018 © Илон Маск"
+				}
+			]
+		}
+	]
+}
